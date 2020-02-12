@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/model/Pessoa.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/cliente/view/TelaCadastroCliente.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infraestructure/support/StringUtil.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/cliente/service/IServiceCliente.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/fornecedor/view/TelaCadastroFornecedor.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/fornecedor/dao/FornecedorDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/gerente/model/bean/Gerente.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/service/IFacede.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/cliente/model/bean/Cliente.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/TelaLogin/view/TelaLogin.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/dao/GenericDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/fornecedor/model/bean/Fornecedor.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/funcionariocaixa/service/IServiceFuncionarioCaixa.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/fornecedor/service/IServiceFornecedor.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/service/Facede.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/service/Singleton.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/produto/model/dao/IProdutoDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/fornecedor/dao/IFornecedorDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/produto/model/dao/ProdutoDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/cliente/dao/IClienteDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/telafuncionario/view/TelaFuncionario.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/produto/service/IServiceProduto.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/funcionariocaixa/model/dao/IFuncionarioCaixaDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/funcionariocaixa/view/TelaCadastroFuncionario.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/model/AbstractEntity.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/produto/model/bean/Produto.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/verificarestoque/view/TelaVerificarEstoque.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/produto/service/ServiceProduto.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/META-INF/persistence.xml</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/telagerente/view/TelaGerente.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/cliente/dao/ClienteDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/fornecedor/service/ServiceFornecedor.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/exception/BusinessException.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/model/Funcionario.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/pesquisafuncionario/view/PesquisarFuncionario.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/cliente/service/ServiceCliente.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/funcionariocaixa/model/bean/FuncionarioCaixa.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/produto/view/TelaCadastroProduto.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/funcionariocaixa/service/ServiceFuncionarioCaixa.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/infrastructure/dao/IGenericDAO.java</file>
+            <file>file:/home/lucio/Documentos/ProjetoMILI/src/br/com/ifba/mili/funcionariocaixa/model/dao/FuncionarioCaixaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
